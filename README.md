@@ -1,3 +1,6 @@
+## *** clone rep for educational purposes (ODIN PROJECT) ##
+
+
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://excalidraw.com">
     <img src="./public/og-image.png" alt="Excalidraw logo: Sketch handrawn like diagrams." />
