@@ -32,7 +32,7 @@
     "react-scripts": "3.4.1",
     "roughjs": "4.2.3",
     "socket.io-client": "2.3.0",
-    "node-sass": "4.14.0",
+    "node-sass": "7.0.0",
     "typescript": "3.8.3",
     "@types/jest": "25.2.1",
     "@types/nanoid": "2.1.0",
